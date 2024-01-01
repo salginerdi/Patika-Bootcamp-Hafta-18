@@ -1,0 +1,81 @@
+.body{
+    background-color: #E9ECEF;
+}
+
+.container-fluid {
+  height: 3em !important;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-2 {
+  margin: 1em 0;
+  color: red;
+  font-size: 2em;
+  text-align: center;
+}
+
+.about{
+    color:purple !important;
+}
+
+.products-link{
+    text-decoration: none;
+}
+
+.h3-section {
+  color: #af9943;
+  font-size: 2em;
+  text-align: center;
+}
+
+.list-div {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.list li {
+  margin: 5px 0;
+  list-style-position: inside;
+}
+
+.link-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.about-header{
+    color: #AF9943;
+    font-size: 1.5em;
+ }
+
+ .about-section{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container-card{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card{
+    margin: 40px;
+  }
+
+  img{
+    padding: 10px;
+  }
+
+  .grand-piano{
+    height: 284px;
+  }
