@@ -18,16 +18,16 @@ Bu depoda şu web sitesi örnekleri bulunmaktadır:
 ### 6. 2 Adet Örnek Website
 ### 7. Nike Landing Page
 
----
 
 Bu projede, Bootstrap'in sunduğu özellikler ve bileşenler kullanılarak çeşitli web sitesi tasarımları ve örnekler oluşturulmuştur.
 
 Her bir prototipin klasörünü inceleyerek `README.md` içerisinde ilgili  ön izlemeyi görebilirsiniz.
 
----
 
 Bu proje, Bootstrap framework'ünü kullanarak farklı web sitesi tasarımlarının nasıl yapılabileceğine dair örnekler göstermektedir. ✨🚀
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
 # Examples Built with CSS Bootstrap Framework
 
 This repository contains various example websites, prototypes, and clones created using the Bootstrap framework. Bootstrap is a frontend framework that simplifies the creation of responsive and impressive web pages using HTML, CSS, and JavaScript.
@@ -48,12 +48,10 @@ This repository includes the following website examples:
 ### 6. 2 Sample Websites
 ### 7. Nike Landing Page
 
----
 
 In this project, various website designs and examples have been created using the features and components offered by Bootstrap.
 
 You can explore each prototype's folder to see the respective preview in the `README.md`.
 
----
 
 This project showcases how different website designs can be created using the Bootstrap framework. ✨🚀
