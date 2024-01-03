@@ -1,6 +1,6 @@
 # CSS Bootstrap Framework ile Yapılan Örnekler
 
-Bu depo, Bootstrap framework'ü kullanılarak oluşturulmuş çeşitli örnek web siteleri, prototiplerini ve klonları içerir. Bootstrap, HTML, CSS ve JavaScript ile duyarlı ve etkileyici web sayfaları oluşturmayı kolaylaştıran bir ön uç framework'üdür.
+Bu depo, Bootstrap framework'ü kullanılarak oluşturulmuş çeşitli örnek web siteleri, prototipleri ve klonları içerir. Bootstrap, HTML, CSS ve JavaScript ile duyarlı ve etkileyici web sayfaları oluşturmayı kolaylaştıran bir ön uç framework'üdür.
 
 ## Bootstrap Nedir?
 
