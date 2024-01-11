@@ -48,6 +48,7 @@ This repository includes the following website examples:
 ### 5. Restaurant Website Prototype
 ### 6. 2 Sample Websites
 ### 7. Nike Landing Page
+### 8. Crypto Landing Page
 
 
 In this project, various website designs and examples have been created using the features and components offered by Bootstrap.
