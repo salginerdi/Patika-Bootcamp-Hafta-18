@@ -54,4 +54,4 @@ In this project, various website designs and examples have been created using th
 You can explore each prototype's folder to see the respective preview in the `README.md`.
 
 
-This project showcases how different website designs can be created using the Bootstrap framework. ✨🚀
+This project showcases how different website designs can be created using the Bootstrap framework. ✨🚀 
