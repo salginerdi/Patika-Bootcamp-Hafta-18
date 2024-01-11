@@ -17,6 +17,7 @@ Bu depoda şu web sitesi örnekleri bulunmaktadır:
 ### 5. Restoran Websitesi Prototipi
 ### 6. 2 Adet Örnek Website
 ### 7. Nike Landing Page
+### 8. Crypto Landing Page
 
 
 Bu projede, Bootstrap'in sunduğu özellikler ve bileşenler kullanılarak çeşitli web sitesi tasarımları ve örnekler oluşturulmuştur.
