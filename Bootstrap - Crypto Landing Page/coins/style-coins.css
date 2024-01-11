@@ -1,0 +1,35 @@
+.gradient-background {
+  background: linear-gradient(300deg, gold, hotpink);
+  background-size: 180% 180%;
+  animation: gradient-animation 30s ease infinite;
+}
+
+.ko-logo {
+  letter-spacing: 4px;
+  font-weight: 600;
+  filter: blur(0.5px);
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.testi-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.icon-square {
+  padding: 0.2rem;
+  border-radius: 0.3em;
+}
