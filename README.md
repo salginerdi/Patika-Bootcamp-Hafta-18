@@ -17,6 +17,7 @@ Bu depoda şu web sitesi örnekleri bulunmaktadır:
 ### 5. Restoran Websitesi Prototipi
 ### 6. 2 Adet Örnek Website
 ### 7. Nike Landing Page
+### 8. Crypto Landing Page
 
 
 Bu projede, Bootstrap'in sunduğu özellikler ve bileşenler kullanılarak çeşitli web sitesi tasarımları ve örnekler oluşturulmuştur.
@@ -47,6 +48,7 @@ This repository includes the following website examples:
 ### 5. Restaurant Website Prototype
 ### 6. 2 Sample Websites
 ### 7. Nike Landing Page
+### 8. Crypto Landing Page
 
 
 In this project, various website designs and examples have been created using the features and components offered by Bootstrap.
@@ -54,4 +56,4 @@ In this project, various website designs and examples have been created using th
 You can explore each prototype's folder to see the respective preview in the `README.md`.
 
 
-This project showcases how different website designs can be created using the Bootstrap framework. ✨🚀 
+This project showcases how different website designs can be created using the Bootstrap framework. ✨🚀  
